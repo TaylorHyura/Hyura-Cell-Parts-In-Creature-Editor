@@ -1,0 +1,6 @@
+key parent creature_rigblock~!ce_hyura_cell_sense_eye_03
+key itemUnlockEffect CRG_partUnlock_sense
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 1
+key modelMeshLOD0 editor_rigblock~!cl_sense_eye_03-symmetric.rw4
+vector3 modelRotation (30, 90, 0)

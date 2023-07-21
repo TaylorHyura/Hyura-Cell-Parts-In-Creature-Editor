@@ -1,0 +1,16 @@
+key parent CreatureEditorTemplates!CreatureCellMovementCiliaTemplate
+texts blockName
+	(CellRigblocks!0x2ea86bfd) "(PLACEHOLDER)"
+end
+int32 modelCapabilityJump 3
+int32 modelComplexityScore 8
+key modelLeftFile creature_rigblock~!ce_hyura_cell_movement_cilia_03
+key modelMeshLOD0 editor_rigblock~!cl_movement_cilia_03.rw4
+int32 modelPrice 150
+key modelRightFile creature_rigblock~!ce_hyura_cell_movement_cilia_03-symmetric
+int32 modelRunTimeBoneCount 4
+float modelScale 1.6
+float modelZCorpMinScale 100
+key skinpaintDiffuseTexture skinPaint_texture~!cl_movement_cilia_03__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_movement_cilia_03__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_movement_cilia_03__tintMask.rw4

@@ -1,0 +1,17 @@
+key parent CreatureEditorTemplates!CreatureCellMovementJetTemplate
+texts blockName
+	(CellRigblocks!0x7dd30837) "(PLACEHOLDER)"
+end
+key itemUnlockEffect CRG_partUnlock_detail04
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 4
+int32 modelCapabilitySprint 4
+int32 modelComplexityScore 6
+key modelMeshLOD0 editor_rigblock~!cl_movement_jet_04.rw4
+int32 modelPrice 250
+int32 modelRunTimeBoneCount 3
+float modelScale 1.7
+float modelZCorpMinScale 0.5
+key skinpaintDiffuseTexture skinPaint_texture~!cl_movement_jet_04__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_movement_jet_04__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_movement_jet_04__tintMask.rw4

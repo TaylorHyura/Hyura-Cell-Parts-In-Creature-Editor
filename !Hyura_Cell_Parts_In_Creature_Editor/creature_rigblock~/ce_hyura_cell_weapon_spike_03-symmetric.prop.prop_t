@@ -1,0 +1,5 @@
+key parent creature_rigblock~!ce_hyura_cell_weapon_spike_03
+key itemUnlockEffect CRG_partUnlock_weapon03
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 3
+key modelMeshLOD0 editor_rigblock~!cl_weapon_spike_03-symmetric.rw4

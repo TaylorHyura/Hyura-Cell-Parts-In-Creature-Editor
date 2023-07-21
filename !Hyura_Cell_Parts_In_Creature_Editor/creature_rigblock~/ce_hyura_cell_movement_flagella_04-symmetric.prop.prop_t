@@ -1,0 +1,5 @@
+key parent creature_rigblock~!ce_hyura_cell_movement_flagella_04
+key itemUnlockEffect CRG_partUnlock_detail04
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 4
+vector3 modelRotation (0, 180, 0)

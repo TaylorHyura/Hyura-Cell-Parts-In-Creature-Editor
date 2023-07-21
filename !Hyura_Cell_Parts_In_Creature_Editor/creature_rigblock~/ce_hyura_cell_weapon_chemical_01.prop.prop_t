@@ -1,0 +1,19 @@
+key parent CreatureEditorTemplates!CreatureCellWeaponChemicalTemplate
+texts blockName
+	(CellRigblocks!0xbaaff974) "(PLACEHOLDER)"
+end
+key itemUnlockEffect CRG_partUnlock_weapon
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 1
+int32 modelCapabilityCellWeaponCharging 1
+int32 modelCapabilitySpit 1
+int32 modelComplexityScore 12
+key modelMeshLOD0 editor_rigblock~!cl_weapon_chemical_01.rw4
+bool modelNoAmbientOcclusion true
+int32 modelPrice 25
+int32 modelRunTimeBoneCount 2
+float modelScale 1.5
+float modelZCorpMinScale 0.5
+key skinpaintDiffuseTexture skinPaint_texture~!cl_weapon_chemical_01__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_weapon_chemical_01__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_weapon_chemical_01__tintMask.rw4

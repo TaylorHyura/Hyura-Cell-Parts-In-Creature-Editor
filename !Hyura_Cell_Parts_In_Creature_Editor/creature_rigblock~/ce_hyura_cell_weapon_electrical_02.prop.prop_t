@@ -1,0 +1,18 @@
+key parent CreatureEditorTemplates!CreatureCellWeaponElectricTemplate
+texts blockName
+	(CellRigblocks!0x2fc35735) "(PLACEHOLDER)"
+end
+key itemUnlockEffect CRG_partUnlock_detail02
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 2
+int32 modelCapabilityCellWeaponCharging 1
+int32 modelCapabilityFlaunt 2
+int32 modelComplexityScore 6
+key modelMeshLOD0 editor_rigblock~!cl_weapon_electrical_02.rw4
+int32 modelPrice 75
+int32 modelRunTimeBoneCount 3
+float modelScale 1.4
+float modelZCorpMinScale 0.5
+key skinpaintDiffuseTexture skinPaint_texture~!cl_weapon_electrical_02__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_weapon_electrical_02__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_weapon_electrical_02__tintMask.rw4

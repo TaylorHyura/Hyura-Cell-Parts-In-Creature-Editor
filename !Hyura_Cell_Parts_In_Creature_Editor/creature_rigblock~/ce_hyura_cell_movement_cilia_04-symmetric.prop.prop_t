@@ -1,0 +1,5 @@
+key parent creature_rigblock~!ce_hyura_cell_movement_cilia_04
+key itemUnlockEffect CRG_partUnlock_detail04
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 4
+key modelMeshLOD0 editor_rigblock~!ce_cell_movement_cilia_04-symmetric.rw4

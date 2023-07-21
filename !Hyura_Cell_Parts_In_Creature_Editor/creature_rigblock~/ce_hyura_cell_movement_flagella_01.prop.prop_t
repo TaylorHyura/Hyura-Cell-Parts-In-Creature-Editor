@@ -1,0 +1,16 @@
+key parent CreatureEditorTemplates!CreatureCellMovementFlagellaTemplate
+texts blockName
+	(CellRigblocks!0x35916fdb) "(PLACEHOLDER)"
+end
+int32 modelCapabilityStealth 1
+int32 modelComplexityScore 8
+key modelLeftFile creature_rigblock~!ce_hyura_cell_movement_flagella_01
+key modelMeshLOD0 editor_rigblock~!ce_cell_movement_flagella_01.rw4
+int32 modelPrice 25
+key modelRightFile creature_rigblock~!ce_hyura_cell_movement_flagella_01-symmetric
+int32 modelRunTimeBoneCount 3
+float modelScale 2
+float modelZCorpMinScale 100
+key skinpaintDiffuseTexture skinPaint_texture~!cl_movement_flagella_01__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_movement_flagella_01__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_movement_flagella_01__tintMask.rw4

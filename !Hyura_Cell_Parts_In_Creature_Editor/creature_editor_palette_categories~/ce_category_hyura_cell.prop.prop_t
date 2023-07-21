@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePaletteCategoryParts.prop
+keys paletteCategoryIconList
+	editors_creature~!button-hyura-cell-norm.png
+	editors_creature~!button-hyura-cell-off.png
+	editors_creature~!button-hyura-cell-hl.png
+	editors_creature~!button-hyura-cell-act.png
+	editors_creature~!button-hyura-cell-on-norm.png
+	editors_creature~!button-hyura-cell-off.png
+	editors_creature~!button-hyura-cell-on-hl.png
+	editors_creature~!button-hyura-cell-on-act.png
+	editors_creature~!button-hyura-cell-norm.png
+end
+texts paletteCategoryName
+	"Cell"
+end
+uint32 paletteCategorySequenceNumber 750

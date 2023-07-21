@@ -1,0 +1,22 @@
+key parent CreatureEditorTemplates!CreatureCellMouthJawTemplate
+texts blockName
+	(CellRigblocks!0x2494a723) "(PLACEHOLDER)"
+end
+key itemUnlockEffect CRG_partUnlock_mouth
+float itemUnlockFindPercentage 0.99
+int32 itemUnlockLevel 1
+int32 modelCapabilityBite 1
+int32 modelCapabilityCarnivorous 1
+int32 modelCapabilityMouth 1
+int32 modelCapabilityVocalize 1
+int32 modelComplexityScore 8
+key modelMeshLOD0 editor_rigblock~!cl_mouth_jaw_01.rw4
+int32 modelPrice 25
+int32 modelRunTimeBoneCount 3
+float modelScale 3.3
+float modelZCorpMinScale 0.5
+float mouthPriority 1
+key mouthtype MCA
+key skinpaintDiffuseTexture skinPaint_texture~!cl_mouth_jaw_01__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_mouth_jaw_01__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_mouth_jaw_01__tintMask.rw4

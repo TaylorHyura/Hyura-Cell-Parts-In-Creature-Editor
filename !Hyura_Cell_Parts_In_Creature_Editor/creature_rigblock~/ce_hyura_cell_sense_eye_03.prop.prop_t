@@ -1,0 +1,22 @@
+key parent CreatureEditorTemplates!CreatureCellEyeStalkTemplate
+texts blockName
+	(CellRigblocks!0x0a4ab03f) "(PLACEHOLDER)"
+end
+int32 modelCapabilityCellEye 1
+int32 modelCapabilityEye 1
+int32 modelCapabilitySense 1
+key modelCenterFile creature_rigblock~!ce_hyura_cell_sense_eye_03-center
+int32 modelComplexityScore 10
+key modelLeftFile creature_rigblock~!ce_hyura_cell_sense_eye_03
+key modelMeshLOD0 editor_rigblock~!cl_sense_eye_03.rw4
+int32 modelPrice 10
+key modelRightFile creature_rigblock~!ce_hyura_cell_sense_eye_03-symmetric
+vector3 modelRotation (30, -90, 0)
+vector3 modelRotationBallHandleOffset (0, -0.5, 0)
+int32 modelRunTimeBoneCount 4
+float modelScale 1.5
+vector3 modelSwatchRotation (-15, -30, -5)
+float modelZCorpMinScale 100
+key skinpaintDiffuseTexture skinPaint_texture~!cl_sense_eye_03__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_sense_eye_03__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_sense_eye_03__tintMask.rw4

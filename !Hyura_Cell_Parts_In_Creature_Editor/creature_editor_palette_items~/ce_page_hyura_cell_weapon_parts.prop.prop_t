@@ -1,0 +1,31 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	1
+end
+keys palettePagePartItems
+	creature_rigblock~!ce_hyura_cell_weapon_spike_01-symmetric
+	creature_rigblock~!ce_hyura_cell_weapon_spike_02-symmetric
+	creature_rigblock~!ce_hyura_cell_weapon_spike_03-symmetric
+	creature_rigblock~!ce_hyura_cell_weapon_spike_04-symmetric
+	creature_rigblock~!ce_hyura_cell_weapon_chemical_01
+	creature_rigblock~!ce_hyura_cell_weapon_chemical_02
+	creature_rigblock~!ce_hyura_cell_weapon_chemical_03
+	creature_rigblock~!ce_hyura_cell_weapon_chemical_04
+end
+key palettePagePartParentPage ce_page_hyura_cell_weapon

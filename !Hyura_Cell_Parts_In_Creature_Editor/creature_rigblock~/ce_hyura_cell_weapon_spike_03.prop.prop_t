@@ -1,0 +1,17 @@
+key parent CreatureEditorTemplates!CreatureCellWeaponSpikeTemplate
+texts blockName
+	(CellRigblocks!0x5ac0a160) "(PLACEHOLDER)"
+end
+int32 modelCapabilityCharge 3
+int32 modelComplexityScore 6
+bool modelJigglable false
+key modelLeftFile creature_rigblock~!ce_hyura_cell_weapon_spike_03
+key modelMeshLOD0 editor_rigblock~!cl_weapon_spike_03.rw4
+int32 modelPrice 150
+key modelRightFile creature_rigblock~!ce_hyura_cell_weapon_spike_03-symmetric
+int32 modelRunTimeBoneCount 2
+float modelScale 1.6
+float modelZCorpMinScale 100
+key skinpaintDiffuseTexture skinPaint_texture~!cl_weapon_spike_03__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!cl_weapon_spike_03__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!cl_weapon_spike_03__tintMask.rw4

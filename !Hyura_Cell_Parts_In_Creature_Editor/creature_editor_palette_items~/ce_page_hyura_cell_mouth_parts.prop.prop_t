@@ -27,17 +27,17 @@ int32s palettePagePartItemRows
 	2
 end
 keys palettePagePartItems
-	creature_rigblock~!ce_hyura_cell_mouth_filter_01
-	creature_rigblock~!ce_hyura_cell_mouth_filter_02
-	creature_rigblock~!ce_hyura_cell_mouth_filter_03
-	creature_rigblock~!ce_hyura_cell_mouth_filter_04
-	creature_rigblock~!ce_hyura_cell_mouth_jaw_01
-	creature_rigblock~!ce_hyura_cell_mouth_jaw_02
-	creature_rigblock~!ce_hyura_cell_mouth_jaw_03
-	creature_rigblock~!ce_hyura_cell_mouth_jaw_04
-	creature_rigblock~!ce_hyura_cell_mouth_poker_01
-	creature_rigblock~!ce_hyura_cell_mouth_poker_02
-	creature_rigblock~!ce_hyura_cell_mouth_poker_03
-	creature_rigblock~!ce_hyura_cell_mouth_poker_04
+	creature_rigblock~!ce_cell_mouth_filter_01
+	creature_rigblock~!ce_cell_mouth_filter_02
+	creature_rigblock~!ce_cell_mouth_filter_03
+	creature_rigblock~!ce_cell_mouth_filter_04
+	creature_rigblock~!ce_cell_mouth_jaw_01
+	creature_rigblock~!ce_cell_mouth_jaw_02
+	creature_rigblock~!ce_cell_mouth_jaw_03
+	creature_rigblock~!ce_cell_mouth_jaw_04
+	creature_rigblock~!ce_cell_mouth_poker_01
+	creature_rigblock~!ce_cell_mouth_poker_02
+	creature_rigblock~!ce_cell_mouth_poker_03
+	creature_rigblock~!ce_cell_mouth_poker_04
 end
 key palettePagePartParentPage ce_page_hyura_cell_mouth

@@ -1,5 +1,5 @@
 keys palettePalettePages
-	creature_editor_palette_pages~!ce_page_hyura_cell
+	#creature_editor_palette_pages~!ce_page_hyura_cell
 	creature_editor_palette_pages~!ce_page_hyura_cell_mouth
 	creature_editor_palette_pages~!ce_page_hyura_cell_weapon
 	creature_editor_palette_pages~!ce_page_hyura_cell_detail

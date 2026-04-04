@@ -35,21 +35,21 @@ int32s palettePagePartItemRows
 	3
 end
 keys palettePagePartItems
-	creature_rigblock~!ce_hyura_cell_weapon_electrical_01
-	creature_rigblock~!ce_hyura_cell_weapon_electrical_02
-	creature_rigblock~!ce_hyura_cell_weapon_electrical_03
-	creature_rigblock~!ce_hyura_cell_weapon_electrical_04
-	creature_rigblock~!ce_hyura_cell_movement_flagella_01-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_flagella_02-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_flagella_03-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_flagella_04-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_cilia_01-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_cilia_02-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_cilia_03-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_cilia_04-symmetric
-	creature_rigblock~!ce_hyura_cell_movement_jet_01
-	creature_rigblock~!ce_hyura_cell_movement_jet_02
-	creature_rigblock~!ce_hyura_cell_movement_jet_03
-	creature_rigblock~!ce_hyura_cell_movement_jet_04
+	creature_rigblock~!ce_cell_weapon_electrical_01
+	creature_rigblock~!ce_cell_weapon_electrical_02
+	creature_rigblock~!ce_cell_weapon_electrical_03
+	creature_rigblock~!ce_cell_weapon_electrical_04
+	creature_rigblock~!ce_cell_movement_flagella_01-symmetric
+	creature_rigblock~!ce_cell_movement_flagella_02-symmetric
+	creature_rigblock~!ce_cell_movement_flagella_03-symmetric
+	creature_rigblock~!ce_cell_movement_flagella_04-symmetric
+	creature_rigblock~!ce_cell_movement_cilia_01-symmetric
+	creature_rigblock~!ce_cell_movement_cilia_02-symmetric
+	creature_rigblock~!ce_cell_movement_cilia_03-symmetric
+	creature_rigblock~!ce_cell_movement_cilia_04-symmetric
+	creature_rigblock~!ce_cell_movement_jet_01
+	creature_rigblock~!ce_cell_movement_jet_02
+	creature_rigblock~!ce_cell_movement_jet_03
+	creature_rigblock~!ce_cell_movement_jet_04
 end
 key palettePagePartParentPage ce_page_hyura_cell_detail

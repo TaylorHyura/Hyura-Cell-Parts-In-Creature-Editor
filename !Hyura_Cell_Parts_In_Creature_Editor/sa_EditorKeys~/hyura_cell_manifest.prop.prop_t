@@ -1,0 +1,4 @@
+key parent palette_config~!TemplateManifest.prop
+keys validAdditionalManifestGroupIDs
+	ce_EditorKeys~!hyura_cell_manifest
+end

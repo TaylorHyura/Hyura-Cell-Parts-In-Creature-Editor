@@ -1,0 +1,11 @@
+string8s postinitList
+	"ce_page_hyura_cell_detail Pageicon_cll"
+	"ce_page_hyura_cell_mouth Pageicon_cll"
+	"ce_page_hyura_cell_sense Pageicon_cll"
+	"ce_page_hyura_cell_weapon Pageicon_cll"
+end
+key Pageicon_cll pageicons!Pageicon_cll
+key ce_page_hyura_cell_detail creature_editor_palette_pages~!ce_page_hyura_cell_detail
+key ce_page_hyura_cell_mouth creature_editor_palette_pages~!ce_page_hyura_cell_mouth
+key ce_page_hyura_cell_sense creature_editor_palette_pages~!ce_page_hyura_cell_sense
+key ce_page_hyura_cell_weapon creature_editor_palette_pages~!ce_page_hyura_cell_weapon
